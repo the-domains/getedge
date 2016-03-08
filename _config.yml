@@ -1,0 +1,28 @@
+name: getedge
+favicon: null
+layout_spectrum: 0.09323420445434749
+typography_spectrum: 0.617060107877478
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3837650704663247
+  lightness: 0.5919412071816623
+  saturation: 0.5207108519971371
+  rhythmicContrast: 0.029013527324423194
+purpose: []
